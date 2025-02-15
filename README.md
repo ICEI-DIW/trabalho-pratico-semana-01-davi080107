@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: DAVI RAFAEL DE OLIVEIRA GURGEL MARTINS
+Matricula: 885013
 
 ## Tela de inspeção com navegador
+<img src="NETWORk.jpg"/> 
 
 
 ## Tela de projeto no Replit
-
+<img src="site.jpg.jpg"/>
